@@ -5,3 +5,6 @@ Specifically, the raw site data is the result of a semester of research and conv
 The sensitivity analysis was used to introduce randomness into our matrix, to both check how our sites held up to changes in policy and other criteria, and also to validate our decision matrix and site choice. 
 
 A final presentation will be added in December 2016.
+
+note: to convert .ipynb to html use `jupyter nbconvert --to html notebook.ipynb && wkhtmltopdf notebook.html notebook.pdf`
+
